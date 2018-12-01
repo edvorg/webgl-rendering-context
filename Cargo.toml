@@ -1,0 +1,15 @@
+[package]
+name = "webgl-rendering-context"
+version = "0.2.0"
+authors = ["Eduard Knyshov <edvorg@gmail.com>"]
+description = "Pregenerated WebGL bindings for Rust "
+
+[dependencies]
+stdweb = "0.4.10"
+stdweb-derive = "0.5.0"
+serde = "1.0.0"
+serde_derive = "1.0.0"
+
+[lib]
+name = "webgl_rendering_context"
+path = "src/lib.rs"
