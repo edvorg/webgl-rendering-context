@@ -2,7 +2,9 @@
 name = "webgl-rendering-context"
 version = "0.1.0"
 authors = ["Eduard Knyshov <edvorg@gmail.com>"]
-description = "Pregenerated WebGL bindings for Rust "
+description = "Pregenerated WebGL bindings for Rust"
+repository = "https://github.com/edvorg/webgl-rendering-context"
+license-file = "LICENSE"
 
 [dependencies]
 stdweb = "0.4.10"
