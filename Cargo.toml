@@ -1,6 +1,6 @@
 [package]
 name = "webgl-rendering-context"
-version = "0.2.0"
+version = "0.1.0"
 authors = ["Eduard Knyshov <edvorg@gmail.com>"]
 description = "Pregenerated WebGL bindings for Rust "
 
